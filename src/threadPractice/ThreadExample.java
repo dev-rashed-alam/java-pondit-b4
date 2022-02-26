@@ -1,4 +1,4 @@
-package class34;
+package threadPractice;
 
 public class ThreadExample {
     /**

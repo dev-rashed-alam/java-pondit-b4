@@ -1,4 +1,4 @@
-package class22;
+package reflectionPractice;
 
 import java.io.*;
 import java.net.URISyntaxException;

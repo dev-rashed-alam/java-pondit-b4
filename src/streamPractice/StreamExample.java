@@ -1,4 +1,4 @@
-package class31;
+package streamPractice;
 
 import java.util.ArrayList;
 import java.util.Comparator;

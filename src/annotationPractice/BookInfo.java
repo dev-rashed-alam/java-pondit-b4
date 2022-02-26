@@ -1,4 +1,4 @@
-package class21;
+package annotationPractice;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
