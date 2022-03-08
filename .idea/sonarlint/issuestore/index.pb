@@ -1,3 +1,19 @@
 
-N
-src/class31/StreamExample.java,1\a\1a83563334f8c7436da0ba84fd91faa97941c4fa
+X
+(src/reflectionPractice/ReadingClass.java,d\4\d489bbc2304e46bdac9f2ea14acf8a9f4b3da5c3
+T
+$src/annotationPractice/BookInfo.java,2\4\24e0e0091ec3736d72bd7692bdb0db039ab38d67
+Z
+*src/annotationPractice/AnnotationTest.java,7\3\73a11dc940bb2aea7499db8c6b1863da6829bbd6
+k
+;src/accessModifierPractice/packageOne/ClassOneSubClass.java,5\e\5ec287509bef5c9c0135fd0046ba2addf1ecb573
+c
+3src/accessModifierPractice/packageOne/ClassOne.java,3\3\333b0804cbc2c3ac1a3e38e0cb32e9de2e83fb60
+f
+6src/accessModifierPractice/packageOne/NonSubClass.java,4\3\4327b95bcf05f1ed50ff81fc135c620a2d458c43
+f
+6src/accessModifierPractice/packageTwo/NonSubClass.java,0\4\04ca3efecafd4bd1fdffcd28d28384a0f789b7ee
+T
+$src/accessModifierPractice/readme.md,b\5\b593708d8d9cc4795b61e47f1cbdb6b525595596
+c
+3src/accessModifierPractice/packageTwo/ClassTwo.java,f\a\fab451b580af310ddf2f3f52d806f883773f1db5
